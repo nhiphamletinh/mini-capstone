@@ -61,13 +61,3 @@ npm run dev
 
 ## Running tests / CI
 No automated tests are included; add unit tests for prompt builders and integration tests that run the proxy in `MOCK_CLAUDE` mode.
-
-## Repository
-This repository has been pushed to GitHub: https://github.com/nhiphamletinh/mini-capstone
-
-## Security
-- Never commit `.env` or your API key. Use `MOCK_CLAUDE` for local testing when possible.
-
----
-
-If you want, I can add a `README` section with the question tree exported (JSON) or add a `Makefile`/commands to run the dev environment more easily.
