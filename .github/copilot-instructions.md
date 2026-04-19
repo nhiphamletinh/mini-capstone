@@ -1,0 +1,2 @@
+- [x] Verify that the copilot-instructions.md file exists and contains the onboarding checklist.
+- [ ] Follow the checklist items to completion when running setup tasks.
